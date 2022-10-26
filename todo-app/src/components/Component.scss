@@ -1,0 +1,20 @@
+.custom_card {
+  min-height: 6rem;
+  border-radius: 24px;
+  .card-body {
+    min-height: 10rem;
+  }
+}
+
+.custom_border {
+  .card-body {
+    border-left: green solid 8px;
+    border-radius: 24px;
+  }
+}
+
+.custom_btn {
+  padding: .7rem 0.25rem;
+  border-radius: 25px;
+  font-weight: bold;
+}
